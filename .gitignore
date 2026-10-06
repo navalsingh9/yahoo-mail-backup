@@ -1,0 +1,7 @@
+yahoo_mail_backup/
+*.mbox
+*.eml
+backup_state.json
+__pycache__/
+*.pyc
+.env

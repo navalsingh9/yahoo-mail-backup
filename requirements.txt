@@ -1,0 +1,3 @@
+# Everything else used (imaplib, mailbox, email, json, argparse) is in the
+# Python standard library. tqdm is optional and only used for a progress bar.
+tqdm>=4.60
